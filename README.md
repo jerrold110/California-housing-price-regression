@@ -1,5 +1,5 @@
 # California housing price regression
-Predicting the prices of housing in different block groups accross California with regression modelling based on the California Housing Dataset (1990). The intended method of regression is linear regression for the sake of statstical modelling under the the restrictions of the Ordinary least squares algorithm. Several other regression algorithms such as decision tree regression were used for comparison, and finally a best performing model was obtained without the restrictions of OLS. The dataset contains sociodemographic and geographical data. Models were assessed in terms of error metrics and mean differences from actual values.
+Predicting the prices of housing in different block groups accross California with regression modelling based on the California Housing Dataset (1990). The intended method of regression is linear regression for the sake of statstical modelling under the the restrictions of the Ordinary least squares algorithm. Several other regression algorithms such as decision tree regression were used for comparison, and finally a best performing model was obtained without the restrictions of OLS. The dataset contains sociodemographic, real estate and geographical data. Models were assessed in terms of error metrics and mean differences from actual values.
  
  
  # Dataset source
